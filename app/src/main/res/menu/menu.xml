@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:icon="@drawable/ic_search_black_24dp">
+    </item>
+    <item
+        android:id="@+id/chat"
+        android:title="chat"
+        android:icon="@drawable/ic_search_black_24dp">
+    </item>
+    <item
+        android:id="@+id/friend"
+        android:title="freind"
+        android:icon="@drawable/ic_search_black_24dp">
+    </item>
+</menu>
